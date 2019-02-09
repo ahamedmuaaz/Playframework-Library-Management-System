@@ -1,0 +1,7 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\hp\Downloads\w1673659\w1673659\Playframework\librarymanagmentsystem\conf\application.conf,C:\Users\hp\Downloads\w1673659\w1673659\Playframework\librarymanagmentsystem\target\scala-2.12\classes\application.conf)
+[debug] 	(C:\Users\hp\Downloads\w1673659\w1673659\Playframework\librarymanagmentsystem\conf\evolutions,C:\Users\hp\Downloads\w1673659\w1673659\Playframework\librarymanagmentsystem\target\scala-2.12\classes\evolutions)
+[debug] 	(C:\Users\hp\Downloads\w1673659\w1673659\Playframework\librarymanagmentsystem\conf\evolutions\default,C:\Users\hp\Downloads\w1673659\w1673659\Playframework\librarymanagmentsystem\target\scala-2.12\classes\evolutions\default)
+[debug] 	(C:\Users\hp\Downloads\w1673659\w1673659\Playframework\librarymanagmentsystem\conf\evolutions\default\1.sql,C:\Users\hp\Downloads\w1673659\w1673659\Playframework\librarymanagmentsystem\target\scala-2.12\classes\evolutions\default\1.sql)
+[debug] 	(C:\Users\hp\Downloads\w1673659\w1673659\Playframework\librarymanagmentsystem\conf\logback.xml,C:\Users\hp\Downloads\w1673659\w1673659\Playframework\librarymanagmentsystem\target\scala-2.12\classes\logback.xml)
+[debug] 	(C:\Users\hp\Downloads\w1673659\w1673659\Playframework\librarymanagmentsystem\conf\routes,C:\Users\hp\Downloads\w1673659\w1673659\Playframework\librarymanagmentsystem\target\scala-2.12\classes\routes)
